@@ -11,24 +11,15 @@ This day planner allows users to save and track thier day to day task and with c
 
 ​
 ### Technologies-Libraries
-- [Bulma](https://bulma.io/) - CSS Framework
+- [Bootstrap](https:https://getbootstrap.com/) - CSS Framework
 - [Font Awesome](https://fontawesome.com/) - CSS Framework
 - [JQuery](https://https://jquery.com/) - Javascript Language
 ​
 ### Screenshots
 
 
-![Image](assets/images/phone_landing.jpg)          ![Image](assets/images/phone_results.jpg)
+![Image](assets/images/Capture1.PNG)
 ​
-
-Desktop Landing page
-
-![Image](assets/images/c2c-landing.jpg)
-​
-
-Desktop Results page
-
-![Image](assets/images/c2c-results.jpg)
 ​
 ### Link
 Check it out! 
