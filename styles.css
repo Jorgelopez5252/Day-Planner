@@ -1,13 +1,17 @@
 #header {
-    background-color: aqua;
+    background-color: white;
     text-align: center;
-    padding:10px;
+    padding: 10px;
     border-radius: 8px;
+    color: black;
 }
 
 
 body {
-    background-color: cadetblue;
+    /* background-color: gray; */
+    background-image: url("https://assets.asana.biz/transform/0c71b880-f528-45c6-8ee3-a704941b9358/article-productivity-daily-schedule-template-2x");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .seperate {
@@ -21,10 +25,11 @@ body {
     font-family: fantasy;
     padding: 20px;
     box-shadow: 0 0 10px 2px;
-    
+
 }
-.dateDiv{
-    padding:10px;
+
+.dateDiv {
+    padding: 10px;
     border: black;
     border: 2px solid black;
 }
@@ -33,17 +38,14 @@ textarea {
     width: 80%;
 }
 
-.saveBtn{
-    background-color:aqua;
+.saveBtn {
+    background-color: white;
     font-size: 19px;
     padding: 10px;
-    border-radius:8px ;
+    border-radius: 8px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
-    
-
-
 }
+
 .bottom {
     padding-bottom: 50px;
     text-align: center;
