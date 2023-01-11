@@ -25,7 +25,14 @@ $("#13").val(localStorage.getItem("13"));
 $("#14").val(localStorage.getItem("14"));
 $("#15").val(localStorage.getItem("15"));
 $("#16").val(localStorage.getItem("16"));
-$("317").val(localStorage.getItem("17"));
+$("#17").val(localStorage.getItem("17"));
+$("#18").val(localStorage.getItem("18"));
+$("#19").val(localStorage.getItem("19"));
+$("#20").val(localStorage.getItem("20"));
+$("#21").val(localStorage.getItem("21"));
+
+
+
 
 
 // color start here//

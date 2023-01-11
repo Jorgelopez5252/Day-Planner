@@ -4,6 +4,7 @@
     padding: 10px;
     border-radius: 8px;
     color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -32,6 +33,7 @@ body {
     padding: 10px;
     border: black;
     border: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 textarea {
@@ -43,10 +45,19 @@ textarea {
     font-size: 19px;
     padding: 10px;
     border-radius: 8px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .bottom {
     padding-bottom: 50px;
     text-align: center;
+}
+
+.bgColor{
+    background-color: aliceblue !important;
+}
+
+::placeholder{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
