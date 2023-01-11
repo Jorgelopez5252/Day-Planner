@@ -37,10 +37,14 @@ body {
 }
 
 textarea {
-    width: 80%;
+    width: 79%;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
+
 .saveBtn {
+    margin-left:5px;
     background-color: white;
     font-size: 19px;
     padding: 10px;
